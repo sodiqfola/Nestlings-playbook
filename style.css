@@ -141,6 +141,7 @@ section{
 }
 .qoute-name{
     color: #E77D20;
+    font-size:1.2rem ;
 }
 .about-grid{
     display: grid;
@@ -177,6 +178,7 @@ section{
 .apply-text{
    font-family: 'Argentum Sans Medium',
    sans-serif;
+   font-size: 1.6rem;
 }
 .footer{
     padding-bottom:6.4rem;
